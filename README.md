@@ -43,8 +43,8 @@ O Git  O Git é um sistema de controle de versão e GitHub  é uma plataforma de
 
 Você pode visualizar 👀 👇 conteùdos completos através dos 🔗links abaixo .
 - [GitHub]( https://github.com/)
-- [História](https://pt.wikipedia.org/wiki/GitHub#Hist%C3%B3ria)
-- [GitHub](https://pt.wikipedia.org/wiki/GitHub)
+- [GitHub/História](https://pt.wikipedia.org/wiki/GitHub#Hist%C3%B3ria)
+- [Git/história](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Uma-Breve-Hist%C3%B3ria-do-Git)
 - [Git](https://git-scm.com/)
 - [Ubuntu/Linux-instalação](  https://ubuntu.com/)
 
