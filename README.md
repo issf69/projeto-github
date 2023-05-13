@@ -36,7 +36,7 @@ Esse projeto foi desenvolvido com as seguintes sistemas:
 
 ## 💻 Projeto
 
-O Git  O Git é um sistema de controle de versão e GitHub  é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git.  
+O Git é um sistema de controle de versão e GitHub  é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git.  
 
 ## 🔎 Fontes para pesquisa:  
 
