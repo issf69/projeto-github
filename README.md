@@ -45,8 +45,8 @@ Você pode visualizar 👀 👇 conteùdos completos através dos 🔗links abai
 - [GitHub/História](https://pt.wikipedia.org/wiki/GitHub#Hist%C3%B3ria)
 - [Git/história](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Uma-Breve-Hist%C3%B3ria-do-Git)
 - [Git Downloads](https://git-scm.com/)
-- [Ubuntu/Linux-instalação](  https://ubuntu.com/)
-- [video/Projeto/Git/GitHub]( https://youtu.be/e1QirbOsrqw/)                                                                            - [video/Projeto/GitHub/Conta]( https://youtu.be/e1QirbOsrqw/)                               
+- [Ubuntu/Linux-instalação](https://ubuntu.com/)
+- [video/Projeto/Git/GitHub](https://youtu.be/e1QirbOsrqw/)                                                                            - [video/Conta/GitHub](https://youtu.be/e1QirbOsrqw/)                               
                                                                                                                          
                                                                                                                          
 
