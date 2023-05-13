@@ -16,9 +16,9 @@
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
    <br>
-  <a href="https://youtu.be/NwTZ-ncHCVI"_blank"><img src="https://img.shields.io/badge/-Youtube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <img src="https://img.shields.io/badge/-Youtube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
      <div align="center">
-                        <img src="https://github.com/issf69/treinamento2/assets/105497075/90a74ce4-1f3d-4bf7-835c-4d11ad0dfc1e" width="100px" />
+     <img src="https://github.com/issf69/treinamento2/assets/105497075/90a74ce4-1f3d-4bf7-835c-4d11ad0dfc1e" width="100px" />
      </div>
      </p>
 <p align="center">
