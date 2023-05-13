@@ -19,13 +19,12 @@
   <img src="https://img.shields.io/badge/-Youtube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
      <div align="center">
      <img src="https://github.com/issf69/treinamento2/assets/105497075/90a74ce4-1f3d-4bf7-835c-4d11ad0dfc1e" width="100px" />
-     </div>
+       </div>
      </p>
-     
-  
+     <p align="center">
+<a href="https://youtu.be/NwTZ-ncHCVI"_blank"><img src="https://github.com/issf69/projeto-github/assets/105497075/a298782d-3a5d-4243-b757-55ffc01137ef"></a>
+ </p>
 
-
-  
      
  ## 💻 Sistemas
 
