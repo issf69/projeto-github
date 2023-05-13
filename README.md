@@ -3,7 +3,7 @@
 ## <h1 align="center"> Projeto Git/GitHub</h1>
 
 <p align="center">
-👣 Passos para a criações, instaçaões das ferramentas necessárias, atualizações e sincronizações de um repositório no GitHub.
+👣 Passos para a criações, instalações das ferramentas necessárias, atualizações e sincronizações de um repositório no GitHub.
 </p>
 
 <p align="center">
