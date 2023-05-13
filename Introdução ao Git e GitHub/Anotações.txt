@@ -1,9 +1,12 @@
-## Link para download do Git: 
-
+🔗 Links úteis: 
+📖
 - [GitHub]( https://github.com/)
 - [GitHub/História](https://pt.wikipedia.org/wiki/GitHub#Hist%C3%B3ria)
 - [Git/história](https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Uma-Breve-Hist%C3%B3ria-do-Git)
 - [Git](https://git-scm.com/)
 - [Ubuntu/Linux-instalação](  https://ubuntu.com/)
 
-### O Git Bash é um terminal extendido para otimizar o uso do Git.
+ 👀 O Git Bash é um terminal extendido para otimizar o uso do Git.
+ 👀 O Git é um sistema de controle de versão e GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git. 
+ ***********************************
+ 🫡👶👶👦👧👨👨‍🦰👨‍🦱👩‍🦳👩‍🦱👩‍🦰👩👨‍🦲👨‍🦳
