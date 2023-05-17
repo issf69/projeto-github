@@ -18,7 +18,7 @@
    <br>
  <br><a href="https://www.youtube.com/watch?v=NwTZ-ncHCVI"_blank"><img src="https://img.shields.io/badge/-Youtube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
      <div align="center">
-     <img src="https://github.com/issf69/treinamento2/assets/105497075/90a74ce4-1f3d-4bf7-835c-4d11ad0dfc1e" width="100px" />
+     <img src="https://github.com/issf69/treinamento2/assets/105497075/90a74ce4-1f3d-4bf7-835c-4d11ad0dfc1e" width="500px" />
        </div>
      </p>
      <p align="center">
