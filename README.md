@@ -28,7 +28,7 @@
      
  ## 💻 Sistemas
 
-Esse projeto foi desenvolvido com as seguintes sistemas:
+Esse projeto foi desenvolvido com os seguintes sistemas:
 
 - Linux
 - Windows
