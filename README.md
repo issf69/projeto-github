@@ -17,13 +17,14 @@
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
    <br>
  <br><a href="https://www.youtube.com/watch?v=NwTZ-ncHCVI"_blank"><img src="https://img.shields.io/badge/-Youtube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-     <div align="center">
-     <img src="https://github.com/issf69/treinamento2/assets/105497075/90a74ce4-1f3d-4bf7-835c-4d11ad0dfc1e" width="200px" />
-       </div>
-     </p>
-     <p align="center">
+           <p align="center">
 <a href="https://youtu.be/NwTZ-ncHCVI"_blank"><img src="https://github.com/issf69/projeto-github/assets/105497075/a298782d-3a5d-4243-b757-55ffc01137ef" width="200px"></a>
  </p>
+     <div align="center">
+     <img src="https://github.com/issf69/treinamento2/assets/105497075/90a74ce4-1f3d-4bf7-835c-4d11ad0dfc1e" width="700px" />
+       </div>
+     </p>
+
 
      
  ## 💻 Sistemas
